@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="p1/p1-starter/src/" kind="src" path=""/>
+	<classpathentry kind="src" path="p1/p1-starter/src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="p1/bin"/>
+</classpath>

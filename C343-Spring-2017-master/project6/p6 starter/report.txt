@@ -1,0 +1,309 @@
+Of the three algorithims, I think the Boyer Moore works best because it takes less time than any of the other algorithims would to complete the same task.
+
+Test 1: @realDonaldTrump with string "fake"
+naive comps = 230221, KMP comps = 466677, BoyerMoore comps = 66457
+0. Just watched the totally biased and fake news reports of the so-called Russia story on NBC and ABC. Such dishonesty!
+fake appears at index 36
+2. The fake news media is going crazy with their conspiracy theories and blind hatred. @MSNBC & @CNN are unwatchable. @foxandfriends is great!
+fake appears at index 4
+4. Any negative polls are fake news, just like the CNN, ABC, NBC polls in the election. Sorry, people want border security and extreme vetting.
+fake appears at index 23
+6. RT @MichaelCohen212: I have never been to Prague in my life. #fakenews https://t.co/CMil9Rha3D
+fake appears at index 62
+
+Test 2: @realDonaldTrump with string "America"
+naive comps = 212845, KMP comps = 442211, BoyerMoore comps = 39215
+0. Jobs are returning, illegal immigration is plummeting, law, order and justice are being restored. We are truly making America great again!
+America appears at index 118
+2. Happy Passover to everyone celebrating in the United States of America, Israel, and around the world. #ChagSameach
+America appears at index 63
+4. I am deeply committed to preserving our strong relationship & to strengthening America's long-standing support for… https://t.co/GxrOR3ALCE
+America appears at index 79
+6. We are going to defend our industry & create a level playing field for the American worker. It is time to put… https://t.co/dzPKJMghj1
+America appears at index 75
+8. Only by enlisting the full potential of women in our society will we be truly able to #MakeAmericaGreatAgain??… https://t.co/cxhgYaxiek
+America appears at index 91
+10. Today we honored our true American heroes on the first-ever National Vietnam War Veterans Day.
+#ThankAVeteran… https://t.co/deOHapcV4J
+America appears at index 26
+12. Today on #NationalAgDay, we honor our great American farmers & ranchers. Their hard work & dedication are ingrained… https://t.co/IpGRhly2zj
+America appears at index 44
+14. A budget that puts #AmericaFirst must make safety its no. 1 priority—without safety there can be no prosperity: https://t.co/9lxx1iQo7m
+America appears at index 20
+16. RT @AmericaFirstPol: .@POTUS Trump led a historic journey to the White House. 50 days in, that historic journey continues. Take a look ? ht…
+America appears at index 4
+18. I am working on a new system where there will be competition in the Drug Industry. Pricing for the American people will come way down!
+America appears at index 99
+20. 45,000 construction & manufacturing jobs in the U.S. Gulf Coast region. $20 billion investment. We are already winning again, America!
+America appears at index 126
+22. We must fix our education system for our kids to Make America Great Again. Wonderful day at Saint Andrew in Orlando. https://t.co/OTJaHcvLzf
+America appears at index 54
+24. Very much enjoyed my tour of the Smithsonian's National Museum of African American History and Culture...A great job done by amazing people!
+America appears at index 74
+26. The FAKE NEWS media (failing @nytimes, @NBCNews, @ABC, @CBS, @CNN) is not my enemy, it is the enemy of the American People!
+America appears at index 107
+28. Obamacare continues to fail. Humana to pull out in 2018. Will repeal, replace & save healthcare for ALL Americans. 
+https://t.co/glWEQ0lNR4
+America appears at index 104
+30. The American dream is back. We’re going to create an environment for small business like we haven’t had in many, ma… https://t.co/Bh7SrNEgz1
+America appears at index 4
+32. Beginning today, the United States of America gets back control of its borders. Full speech from today @DHSgov:… https://t.co/8aDaHsAhg9
+America appears at index 38
+34. Busy week planned with a heavy focus on jobs and national security. Top executives coming in at 9:00 A.M. to talk manufacturing in America.
+America appears at index 131
+36. So to all Americans, in every city near and far, small and large, from mountain to mountain...https://t.co/cZKkrGXLSi
+America appears at index 10
+38. power from Washington, D.C. and giving it back to you, the American People. #InaugurationDay
+America appears at index 59
+40. "@zhu_amy3: @realDonaldTrump It's Morning in America again!!!  ??????Thank you President-Elect Donald Trump!!! So proud of you!!!!" THANKS!
+America appears at index 45
+42. RT @Reince: Happy New Year + God's blessings to you all.  Looking forward to incredible things in 2017!  @realDonaldTrump will Make America…
+America appears at index 132
+44. "@EazyMF_E: @realDonaldTrump Many people are now saying you will be an extremely successful president! #MakeAmericaGreatAgain"  Thank you!
+America appears at index 108
+46. Thank you Ohio! Together, we made history – and now, the real work begins. America will start winning again!… https://t.co/sVNSNJE7Uf
+America appears at index 75
+48. If Cuba is unwilling to make a better deal for the Cuban people, the Cuban/American people and the U.S. as a whole, I will terminate deal.
+America appears at index 75
+50. RT @EricTrump: Join my family in this incredible movement to #MakeAmericaGreatAgain!! Now it is up to you! Please #VOTE for America! https:…
+America appears at index 66
+52. 'America must decide between failed policies or fresh perspective, a corrupt system or an outsider'
+https://t.co/ll8QIW9SqW
+America appears at index 1
+54. Starting tomorrow it's going to be #AmericaFirst! Thank you for a great morning Sarasota, Florida!
+Watch here:… https://t.co/ig62Kjkkvl
+America appears at index 36
+56. RT @DanScavino: Join @realDonaldTrump LIVE in Denver, Colorado via his #Facebook page- we are here!!
+#MakeAmericaGreatAgain??  
+https://t.c…
+America appears at index 106
+58. Join me live in Hershey, Pennsylvania! 
+#MakeAmericaGreatAgain 
+LIVE: https://t.co/xEj6sZpb12 https://t.co/JWfGI1vlwW
+America appears at index 45
+60. Looking at Air Force One @ MIA. Why is he campaigning instead of creating jobs & fixing Obamacare? Get back to work for the American people!
+America appears at index 124
+62. Wow! I hear you Warren, Michigan. Streaming live - join us America. It is time to DRAIN THE SWAMP!
+Watch: https://t.co/pjXELwc5E1
+America appears at index 59
+64. Join @TeamTrump on Facebook & watch tonight's rally from Geneva, Ohio- our 3rd rally of the day. #AmericaFirst #MAGA https://t.co/ZqJmf4QcwH
+America appears at index 98
+66. I agree, @MMFlint- To all Americans, I see you & I hear you. I am your voice. Vote to #DrainTheSwamp w/ me on 11/8. https://t.co/D7nBwkogBb
+America appears at index 26
+68. Get out and vote! I am your voice and I will fight for you! We will make America great again! https://t.co/XXvLRlhSaz
+America appears at index 73
+70. Thank you Naples, Florida! Get out and VOTE #TrumpPence16 on 11/8. 
+Lets #MakeAmericaGreatAgain! 
+Full Naples rally… https://t.co/5ZbteSJ00K
+America appears at index 78
+72. Landing in Pennsylvania now. Great new poll this morning, thank you. Lets #DrainTheSwamp and #MakeAmericaGreatAgain… https://t.co/BV2RFavG84
+America appears at index 98
+74. Thank you America! #MAGA
+
+Rasmussen National Poll
+Donald Trump 43%
+Hillary Clinton 40% https://t.co/n4eZ3qpcjg
+America appears at index 10
+76. Great poll - thank you America! Once we #DrainTheSwamp, together we will #MAGA??#Debate https://t.co/SvcjmrsHKD
+America appears at index 23
+78. I started this campaign to Make America Great Again. That’s what I’m going to do. #MAGA #debate
+America appears at index 32
+80. .@HillaryClinton loves to lie. America has had enough of the CLINTON'S! It is time to #DrainTheSwamp! Debates https://t.co/3Mz4T7qTTR
+America appears at index 31
+82. RT @TeamTrump: .@RealDonaldTrump wants a SAFE America w/ stronger borders, no amnesty, and an END to sanctuary cities. He is #AmericaFirst!…
+America appears at index 46
+84. Ready to lead. Ready to Make America Great Again. #Debate #MAGA
+America appears at index 29
+86. If we let Crooked run the govt, history will remember 2017 as the year America lost its independence. #DrainTheSwamp https://t.co/VpYiO8CnXQ
+America appears at index 71
+88. I will sign the first bill to repeal #Obamacare and give Americans many choices and much lower rates!
+America appears at index 57
+90. Thank you @TrumpWomensTour!
+#MakeAmericaGreatAgain https://t.co/R4oxaHpsAB
+America appears at index 33
+92. Thank you! #MAGA #AmericaFirst https://t.co/fG313wjlKm
+America appears at index 18
+94. Is this really America? Terrible! https://t.co/WiwC61PIFu
+America appears at index 15
+96. Thank you St. Louis, Missouri!
+#MakeAmericaGreatAgain  
+https://t.co/2llBltf0mE https://t.co/wBmVxf1a9D
+America appears at index 36
+98. In my administration, EVERY American will be treated equally, protected equally, and honored equally #Debate #BigLeagueTruth
+America appears at index 28
+100. RT @TeamTrump: RT if you believe @HillaryClinton is the one who owes America an apology! #BigLeagueTruth #Debates https://t.co/KcmDedSUTw
+America appears at index 69
+102. RT @TeamTrump: .@HillaryClinton just claimed she has a "positive, optimistic view" for America. #Debates https://t.co/hOWJYZbD7v
+America appears at index 87
+104. "@maidaa17: @realDonaldTrump GOP traitors! Not supporting U is voting for her, destroying America.
+America appears at index 90
+106. Volunteer to be a Trump Election Observer. Sign up today!
+#MakeAmericaGreatAgain
+https://t.co/ZzFHlsWnh4
+America appears at index 63
+108. Reuters polling just out- thank you!
+#MakeAmericaGreatAgain https://t.co/UMY6kOiSTu
+America appears at index 42
+110. RT @mike_pence: History teaches us that weakness arouses evil. America needs to be strong on the world stage. #VPDebate https://t.co/FJ59o5…
+America appears at index 63
+112. "@Gsimmons03Ginny: @realDonaldTrump ..Kaine is awful, Trump and Pence are the ticket..no more lies, we are ready to see America Great Again!
+America appears at index 120
+114. "@bcuzimdamomma: @FreeDavidKing No she only gets #Americans killed #Benghazi - we need @realDonaldTrump #MAGA"
+America appears at index 50
+116. RT @mike_pence: There’s one clear choice in this election to create jobs and grow the American economy. #VPDebate https://t.co/cvv0cK6Fbt
+America appears at index 86
+118. Join me in Reno, Nevada tomorrow at 3:30pm! #AmericaFirst #MAGA
+Tickets: https://t.co/DJ7JJUkkz7
+America appears at index 45
+120. Thank you Pueblo, Colorado! 
+#TrumpRally #AmericaFirst
+https://t.co/3KWOl20zMm https://t.co/rFAf7xYNhy
+America appears at index 42
+122. I believe in #AmericaFirst and that means FAMILY FIRST! My childcare plan reflects the needs of modern working-clas… https://t.co/RCnZZtTk4c
+America appears at index 14
+124. Join me live in Waukesha, Wisconsin for an 8pmE rally! #AmericaFirst #MAGA
+https://t.co/G8kGLSFy6S
+America appears at index 56
+126. Join me in Council Bluffs, Iowa- today at 3pm! #MakeAmericaGreatAgain 
+Tickets: https://t.co/iRL3xh37gF
+America appears at index 52
+128. RT @GOP: On National #VoterRegistrationDay, make sure you're registered to vote so we can #MakeAmericaGreatAgain https://t.co/GKcaLkx8C8 ht…
+America appears at index 95
+130. Such a great honor. Final debate polls are in - and the MOVEMENT wins!
+#AmericaFirst #MAGA #ImWithYou… https://t.co/DV1BKMwHEM
+America appears at index 72
+132. TIME #DebateNight poll - over 800,000 votes. Thank you! 
+#AmericaFirst #MAGA https://t.co/bTPX9E0wKu
+America appears at index 58
+134. Thank you Governor @Mike_Pence!
+Lets MAKE AMERICA SAFE AND GREAT AGAIN with the American people. 
+#AmericaFirst… https://t.co/6k7qP9X8nC
+America appears at index 42
+136. I will stand with police and protect ALL Americans! #Debates2016 #MAGA https://t.co/CX4oEWgEMp
+America appears at index 41
+138. This is more than a campaign- it is a movement. #MakeAmericaGreatAgain
+SIGN UP TODAY & WE WILL WIN! https://t.co/2XBs5SSRC3
+America appears at index 53
+140. Thank you Nevada! #AmericaFirst
+#MakeAmericaGreatAgain 
+https://t.co/3KWOl2ibaW https://t.co/RJqHgq2Rn0
+America appears at index 19
+142. Together, we will MAKE AMERICA SAFE AND GREAT AGAIN! #ImWithYou #AmericaFirst https://t.co/XhwUGw0v2H
+America appears at index 23
+144. Under the leadership of Obama & Clinton, Americans have experienced more attacks at home than victories abroad. Time to change the playbook!
+America appears at index 41
+146. Thank you for a great evening - Laconia, New Hampshire -- will be back soon! #AmericaFirst
+https://t.co/3KWOl2ibaW https://t.co/QWbYm2lY7B
+America appears at index 78
+148. Thank you to all of our law enforcement officers - across America! #LESM #MAGA 
+https://t.co/Mcbc2JzhN2 https://t.co/4MTmR8kXVb
+America appears at index 58
+150. Great poll Florida - thank you! 
+#ImWithYou #AmericaFirst https://t.co/6Odle7j1hd
+America appears at index 45
+152. RT @IvankaTrump: Ivanka is joining @realDonaldTrump to outline an innovative new child care policy to support American families. Tune in to…
+America appears at index 110
+154. Heading to Iowa- join me today at noon! #MakeAmericaGreatAgain
+Tickets: https://t.co/TEY6BbCyxt https://t.co/QyR2MDYYbZ
+America appears at index 45
+156. Hillary Clinton just had her 47% moment. What a terrible thing she said about so many great Americans!
+America appears at index 92
+158. Thank you Florida - we are going to MAKE AMERICA GREAT AGAIN! Join us: https://t.co/3KWOl2ibaW. 
+#AmericaFirst https://t.co/vzKtRxzvwv
+America appears at index 41
+160. RT @EricTrump: Join @TeamTrump on Saturday for National Day of Action as we work to #MakeAmericaGreatAgain! https://t.co/hyclkzPoBR https:/…
+America appears at index 89
+162. Last nights results - in poll taken by NBC. #AmericaFirst #ImWithYou https://t.co/sCOnny1fl3
+America appears at index 45
+164. Thank you Peter - if elected, I will think big for our country & never let the American people down! #AmericaFirst https://t.co/6Nwu7EMJ9d
+America appears at index 79
+166. 'Donald Trump leads Hillary Clinton by 19 points among military, veteran voters: poll' #AmericaFirst #MAGA
+https://t.co/5FmxGtLkwt
+America appears at index 88
+168. "@Ler: Message for undecided voters: Please wake up and vote DonaldTrump now! Trump/Pence very important save our America before too late!"
+America appears at index 114
+170. Thank you Ohio! #AmericaFirst https://t.co/p68GAJdhwu
+America appears at index 17
+172. Thank you American Legion Post 610- for hosting @Mike_Pence & I for a roundtable with labor leaders. #LaborDay #MAGA https://t.co/r0cwJlV38L
+America appears at index 10
+174. "@lblackvelvet: @realDonaldTrump We need to show Americans that Hillary will KILL our Country !! Vote for Trump !!"
+America appears at index 49
+176. #AmericaFirst #ImWithYou https://t.co/Gtl7DyQkzt
+America appears at index 1
+178. I am promising you a new legacy for America. We're going to create a new American future. Thank you OHIO! #ImWithYou https://t.co/TUgccsxvoy
+America appears at index 36
+180. Under a Trump administration, it's called #AmericaFirst! #ImWithYou
+https://t.co/QfHfCQg0Wa
+America appears at index 43
+182. There will be no amnesty!
+#MakeAmericaGreatAgain #ImWithYou
+https://t.co/vVhzSdCblA
+America appears at index 31
+184. RT @LouDobbs: We are Watching A Leader Who for the First Time in Three Presidencies Will Put America and Americans First! @realDonaldTrump…
+America appears at index 93
+186. Thank you America! #MAGA
+https://t.co/FljBVvbwKr https://t.co/ePJW9jLckM
+America appears at index 10
+188. Now that African-Americans are seeing what a bad job Hillary type policy and management has done to the inner-cities, they want TRUMP!
+America appears at index 17
+190. Look how bad it is getting! How much more crime, how many more shootings, will it take for African-Americans and Latinos to vote Trump=SAFE!
+America appears at index 99
+192. Dwyane Wade's cousin was just shot and killed walking her baby in Chicago. Just what I have been saying. African-Americans will VOTE TRUMP!
+America appears at index 113
+194. Thank you @TeamTrump Florida. Keep me updated, and lets get those 100,000 registered voters!
+#MakeAmericaGreatAgain  https://t.co/lseAAqxjA9
+America appears at index 98
+196. What do African-Americans and Hispanics have to lose by going with me. Look at the poverty, crime and educational statistics. I will fix it!
+America appears at index 16
+198. Hillary Clinton is using race-baiting to try to get African-American voters- but they know she is all talk and NO ACTION!
+America appears at index 60
+200. Thank you for your support!
+#AmericaFirst #ImWithYou https://t.co/N8FShwYt2g
+America appears at index 29
+202. Great new poll Florida - thank you! #MakeAmericaGreatAgain https://t.co/7TKpe388Bc
+America appears at index 41
+204. Thank you Travis County, Texas!
+#MakeAmericaGreatAgain https://t.co/ZBnYzNb0eo
+America appears at index 37
+206. We will bring America together as ONE country again – united as Americans in common purpose and common dreams. #MAGA
+America appears at index 14
+208. We are going to make this a government of the people once again!
+#MakeAmericaGreatAgain #ImWithYou
+https://t.co/Fi7yEb2XQb
+America appears at index 70
+210. Thank you Governor @ScottWalker & @GOP Chairman @Reince Priebus. 
+#MakeAmericaGreatAgain #ImWithYou
+https://t.co/IdJBuaKMwK
+America appears at index 71
+212. This is my pledge to the American people: https://t.co/Jb21oyNfxt
+America appears at index 25
+214. #MakeAmericaSafeAgain 
+https://t.co/bgBGPaKaqI
+America appears at index 5
+216. "@PaulaDuvall2: We're all enjoying you, as well, Mr. T.! You've inspired Hope and a Positive Spirit throughout America! God bless you!" Nice
+America appears at index 111
+218. Thank you Erie, Pennsylvania! Together we will #MakeAmericaGreatAgain! https://t.co/5hZp7PnRoT
+America appears at index 52
+220. Thank you Fort Lauderdale, Florida. 
+#MakeAmericaGreatAgain https://t.co/cjivzdRpU1
+America appears at index 42
+222. #MakeAmericaGreatAgain! https://t.co/8rWz6p1Ged
+America appears at index 5
+224. Thank you Wilmington, North Carolina!
+#MakeAmericaGreatAgain https://t.co/ZnnaSPF5or
+America appears at index 43
+226. #MakeAmericaSafeAgain https://t.co/5yuLKyh8Q6
+America appears at index 5
+228. Thank you Jacksonville, Florida!
+#MakeAmericaGreatAgain 
+https://t.co/xrTQjt9WOC https://t.co/VSnBoQYoZs
+America appears at index 38
+230. Join me in Florida tomorrow! 
+#MakeAmericaGreatAgain 
+
+Daytona | 3pm- 
+https://t.co/jbOS2s4qGI
+
+Jacksonville | 7pm- 
+https://t.co/XSF1kp7R54
+America appears at index 35

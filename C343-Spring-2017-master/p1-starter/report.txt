@@ -1,0 +1,21 @@
+1.Describe your approach to implementing the hash table inside ColorTable. Defend your design decision to either use two separate arrays for keys and values, or just one array with objects representing the key/value pairs.
+
+I decided to use a 2D array for the keys and values. This approach might help with improving efficiency in runtime. 
+
+2.If you implemented any helper methods for ColorTable, other than those specified in the starter code, describe each one briefly. Explain your reasoning for implementing each helper.
+
+dproduct – computes the dot product of the two vectors
+lookup – provides helps determine what collision strategy is being used
+hashfunction – takes the color and mods it by the capacity
+
+3.When you use 2 bits per channel, how many black pixel are there in the davinci image? What about the vangogh image?
+
+4, 7
+
+4.Report on the experiments you performed in the Driver. Which two images are the most similar at 4 bits per channel? Be sure to experiment with the two different collision resolution strategies and include the collision counts from your experiments.
+
+Davinci and vangough
+
+5.What was the most significant thing you learned by completing this project?
+
+I learned how to implement a hash function and that it requires a lot of time to complete this project
